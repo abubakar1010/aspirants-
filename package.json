@@ -1,0 +1,24 @@
+{
+  "name": "aspirants",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A Bengali-first cultural discovery library",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "admin": "node scripts/admin.js",
+    "test": "node --test tests/*.test.js",
+    "check": "node --check server.js && node --check public/app.js",
+    "test:browser": "playwright test",
+    "backup": "node scripts/backup.js"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.14.0",
+    "@playwright/test": "^1.64.1",
+    "prettier": "^3.9.10"
+  }
+}
