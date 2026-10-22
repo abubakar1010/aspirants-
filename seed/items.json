@@ -1,0 +1,5653 @@
+[
+  {
+    "id": "item-001",
+    "title": "লালসালু",
+    "creators": [
+      "সৈয়দ ওয়ালীউল্লাহ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction",
+      "Social commentary"
+    ],
+    "tags": [
+      "Source collection",
+      "বাংলা সাহিত্য",
+      "সমাজ",
+      "বিশ্বাস"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "ধর্ম, বিশ্বাস ও গ্রামীণ সমাজের ক্ষমতাকাঠামো নিয়ে সৈয়দ ওয়ালীউল্লাহর বহুলপঠিত উপন্যাস।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "লালসালু",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-002",
+    "title": "চাঁদের অমাবস্যা",
+    "creators": [
+      "সৈয়দ ওয়ালীউল্লাহ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction",
+      "Psychological fiction"
+    ],
+    "tags": [
+      "Source collection",
+      "বাংলা সাহিত্য",
+      "নৈতিকতা"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "চাঁদের অমাবস্যা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-003",
+    "title": "ওঙ্কার",
+    "creators": [
+      "আহমেদ ছফা"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction"
+    ],
+    "tags": [
+      "Source collection",
+      "বাংলা সাহিত্য",
+      "পরিচয়"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "ওঙ্কার",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-004",
+    "title": "গাভী বিত্তান্ত",
+    "creators": [
+      "আহমেদ ছফা"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Satire"
+    ],
+    "tags": [
+      "Source collection",
+      "বাংলা সাহিত্য",
+      "সমাজ"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "গাভী বিত্তান্ত",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-005",
+    "title": "বাঙালি মুসলমানের মন",
+    "creators": [
+      "আহমেদ ছফা"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Essays",
+      "Social commentary"
+    ],
+    "tags": [
+      "Source collection",
+      "চিন্তা",
+      "সমাজ"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "বাঙালি মুসলমানের মন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-006",
+    "title": "সুলতানার স্বপ্ন",
+    "creators": [
+      "বেগম রোকেয়া সাখাওয়াত হোসেন"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Speculative fiction"
+    ],
+    "tags": [
+      "Source collection",
+      "নারী",
+      "সমাজ"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "সুলতানার স্বপ্ন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-007",
+    "title": "অবরোধবাসিনী",
+    "creators": [
+      "বেগম রোকেয়া সাখাওয়াত হোসেন"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Social commentary"
+    ],
+    "tags": [
+      "Source collection",
+      "নারী",
+      "সমাজ"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "অবরোধবাসিনী",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-008",
+    "title": "সংশপ্তক",
+    "creators": [
+      "শহীদুল্লাহ কায়সার"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "সংশপ্তক",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-009",
+    "title": "সারেং বৌ",
+    "creators": [
+      "শহীদুল্লাহ কায়সার"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "সারেং বৌ",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-010",
+    "title": "আয়না",
+    "creators": [
+      "আবুল মনসুর আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Satire",
+      "Short stories"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "আয়না",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-011",
+    "title": "ফুড কনফারেন্স",
+    "creators": [
+      "আবুল মনসুর আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "ফুড কনফারেন্স",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-012",
+    "title": "আমার দেখা রাজনীতির পঞ্চাশ বছর",
+    "creators": [
+      "আবুল মনসুর আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Memoir",
+      "Politics"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "আমার দেখা রাজনীতির পঞ্চাশ বছর",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-013",
+    "title": "মধ্যাহ্ন",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "মধ্যাহ্ন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-014",
+    "title": "এইসব দিনরাত্রি",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "এইসব দিনরাত্রি",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-015",
+    "title": "বহুব্রীহি",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "বহুব্রীহি",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-016",
+    "title": "কোথাও কেউ নেই",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "কোথাও কেউ নেই",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-017",
+    "title": "বাদশাহ নামদার",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "বাদশাহ নামদার",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-018",
+    "title": "পরার্থপরতার অর্থনীতি",
+    "creators": [
+      "আকবর আলী খান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "পরার্থপরতার অর্থনীতি",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-019",
+    "title": "আজব ও জবর আজব অর্থনীতি",
+    "creators": [
+      "আকবর আলী খান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "আজব ও জবর আজব অর্থনীতি",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-020",
+    "title": "পুরানো সেই দিনের কথা",
+    "creators": [
+      "আকবর আলী খান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "পুরানো সেই দিনের কথা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-021",
+    "title": "পদ্মা নদীর মাঝি",
+    "creators": [
+      "মানিক বন্দ্যোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction"
+    ],
+    "tags": [
+      "Source collection",
+      "বাংলা সাহিত্য",
+      "নদী",
+      "মানুষ"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "পদ্মাপাড়ের জেলেজীবন, মানুষের আকাঙ্ক্ষা ও বেঁচে থাকার সংগ্রামের এক গভীর সাহিত্যিক প্রতিচ্ছবি।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "পদ্মা নদীর মাঝি",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-022",
+    "title": "পুতুল নাচের ইতিকথা",
+    "creators": [
+      "মানিক বন্দ্যোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "পুতুল নাচের ইতিকথা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-023",
+    "title": "দিবারাত্রির কাব্য",
+    "creators": [
+      "মানিক বন্দ্যোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "দিবারাত্রির কাব্য",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-024",
+    "title": "জননী",
+    "creators": [
+      "মানিক বন্দ্যোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "জননী",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-025",
+    "title": "আরণ্যক",
+    "creators": [
+      "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction",
+      "Nature writing"
+    ],
+    "tags": [
+      "Source collection",
+      "প্রকৃতি",
+      "বাংলা সাহিত্য"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "অরণ্য, মানুষ ও প্রকৃতির সম্পর্ক নিয়ে বিভূতিভূষণের এক স্মরণীয় সাহিত্যকর্ম।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "আরণ্যক",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-026",
+    "title": "পথের পাঁচালী",
+    "creators": [
+      "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction",
+      "Coming of age"
+    ],
+    "tags": [
+      "Source collection",
+      "শৈশব",
+      "বাংলা সাহিত্য"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "অপু ও দুর্গার চোখে গ্রামবাংলার জীবন, শৈশব আর ছোট ছোট বিস্ময়ের গল্প।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "পথের পাঁচালী",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-027",
+    "title": "অপরাজিত",
+    "creators": [
+      "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction",
+      "Coming of age"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "অপরাজিত",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-028",
+    "title": "আদর্শ হিন্দু হোটেল",
+    "creators": [
+      "বিভূতিভূষণ বন্দ্যোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "আদর্শ হিন্দু হোটেল",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-029",
+    "title": "শ্রীকান্ত",
+    "creators": [
+      "শরৎচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "শ্রীকান্ত",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-030",
+    "title": "চরিত্রহীন",
+    "creators": [
+      "শরৎচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "চরিত্রহীন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-031",
+    "title": "গৃহদাহ",
+    "creators": [
+      "শরৎচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "গৃহদাহ",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-032",
+    "title": "দত্তা",
+    "creators": [
+      "শরৎচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "দত্তা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-033",
+    "title": "শ্রেষ্ঠ গল্প",
+    "creators": [
+      "শরৎচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "শ্রেষ্ঠ গল্প",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-034",
+    "title": "আরেক ফাল্গুন",
+    "creators": [
+      "জহির রায়হান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "আরেক ফাল্গুন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-035",
+    "title": "বরফ গলা নদী",
+    "creators": [
+      "জহির রায়হান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "বরফ গলা নদী",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-036",
+    "title": "শেষ বিকেলের মেয়ে",
+    "creators": [
+      "জহির রায়হান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "শেষ বিকেলের মেয়ে",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-037",
+    "title": "হাজার বছর ধরে",
+    "creators": [
+      "জহির রায়হান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "হাজার বছর ধরে",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-038",
+    "title": "গল্প সমগ্র",
+    "creators": [
+      "জহির রায়হান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "গল্প সমগ্র",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-039",
+    "title": "গল্পগুচ্ছ",
+    "creators": [
+      "রবীন্দ্রনাথ ঠাকুর"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Short stories"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "গল্পগুচ্ছ",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-040",
+    "title": "চোখের বালি",
+    "creators": [
+      "রবীন্দ্রনাথ ঠাকুর"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "চোখের বালি",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-041",
+    "title": "গোরা",
+    "creators": [
+      "রবীন্দ্রনাথ ঠাকুর"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "গোরা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-042",
+    "title": "শেষের কবিতা",
+    "creators": [
+      "রবীন্দ্রনাথ ঠাকুর"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Literary fiction",
+      "Romance"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "শেষের কবিতা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-043",
+    "title": "কৃষ্ণকান্তের উইল",
+    "creators": [
+      "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "কৃষ্ণকান্তের উইল",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-044",
+    "title": "কমলাকান্তের দপ্তর",
+    "creators": [
+      "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "কমলাকান্তের দপ্তর",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-045",
+    "title": "দেশে বিদেশে",
+    "creators": [
+      "সৈয়দ মুজতবা আলী"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Travel writing"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "দেশে বিদেশে",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-046",
+    "title": "পঞ্চতন্ত্র",
+    "creators": [
+      "সৈয়দ মুজতবা আলী"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "পঞ্চতন্ত্র",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-047",
+    "title": "ছোটগল্প সমগ্র",
+    "creators": [
+      "কাজী নজরুল ইসলাম"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "ছোটগল্প সমগ্র",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-048",
+    "title": "অগ্নিবীণা",
+    "creators": [
+      "কাজী নজরুল ইসলাম"
+    ],
+    "type": "poem",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Poetry"
+    ],
+    "genres": [
+      "Poetry"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "অগ্নিবীণা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-049",
+    "title": "সাম্যবাদী",
+    "creators": [
+      "কাজী নজরুল ইসলাম"
+    ],
+    "type": "poem",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Poetry"
+    ],
+    "genres": [
+      "Poetry"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "সাম্যবাদী",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-050",
+    "title": "নার্গিসকে লেখা চিঠি",
+    "creators": [
+      "কাজী নজরুল ইসলাম"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "নার্গিসকে লেখা চিঠি",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-051",
+    "title": "রাজবন্দীর জবানবন্দী",
+    "creators": [
+      "কাজী নজরুল ইসলাম"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "রাজবন্দীর জবানবন্দী",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-052",
+    "title": "কবর",
+    "creators": [
+      "মুনীর চৌধুরী"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "কবর",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-053",
+    "title": "রক্তাক্ত প্রান্তর",
+    "creators": [
+      "মুনীর চৌধুরী"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "রক্তাক্ত প্রান্তর",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-054",
+    "title": "চিলেকোঠার সেপাই",
+    "creators": [
+      "আখতারুজ্জামান ইলিয়াস"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "চিলেকোঠার সেপাই",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-055",
+    "title": "খোয়াবনামা",
+    "creators": [
+      "আখতারুজ্জামান ইলিয়াস"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "খোয়াবনামা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-056",
+    "title": "সাতকাহন",
+    "creators": [
+      "সমরেশ মজুমদার"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "সাতকাহন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-057",
+    "title": "কালবেলা",
+    "creators": [
+      "সমরেশ মজুমদার"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "কালবেলা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-058",
+    "title": "কালপুরুষ",
+    "creators": [
+      "সমরেশ মজুমদার"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "কালপুরুষ",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-059",
+    "title": "প্রথম আলো",
+    "creators": [
+      "সুনীল গঙ্গোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "প্রথম আলো",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-060",
+    "title": "ইতিহাসের স্বপ্নভঙ্গ",
+    "creators": [
+      "সুনীল গঙ্গোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "ইতিহাসের স্বপ্নভঙ্গ",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-061",
+    "title": "কবি",
+    "creators": [
+      "তারাশঙ্কর বন্দ্যোপাধ্যায়"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "কবি – তারাশঙ্কর বন্দ্যোপাধ্যায়",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-062",
+    "title": "নকশী কাঁথার মাঠ",
+    "creators": [
+      "জসীমউদ্দীন"
+    ],
+    "type": "poem",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Poetry"
+    ],
+    "genres": [
+      "Poetry"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "নকশী কাঁথার মাঠ – জসীমউদ্দীন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-063",
+    "title": "সত্যের সন্ধান",
+    "creators": [
+      "আরজ আলী মাতুব্বর"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "সত্যের সন্ধান – আরজ আলী মাতুব্বর",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-064",
+    "title": "ক্রীতদাসের হাসি",
+    "creators": [
+      "শওকত ওসমান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "ক্রীতদাসের হাসি – শওকত ওসমান",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-065",
+    "title": "সূর্য দীঘল বাড়ী",
+    "creators": [
+      "আবু ইসহাক"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "সূর্য দীঘল বাড়ী – আবু ইসহাক",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-066",
+    "title": "তিতাস একটি নদীর নাম",
+    "creators": [
+      "অদ্বৈত মল্লবর্মণ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Bengali Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "তিতাস একটি নদীর নাম – অদ্বৈত মল্লবর্মণ",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-067",
+    "title": "রূপসী বাংলা",
+    "creators": [
+      "জীবনানন্দ দাশ"
+    ],
+    "type": "poem",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Poetry"
+    ],
+    "genres": [
+      "Poetry"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "রূপসী বাংলা - জীবনানন্দ দাশ",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-068",
+    "title": "হাঙর নদী গ্রেনেড",
+    "creators": [
+      "সেলিনা হোসেন"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "হাঙর নদী গ্রেনেড – সেলিনা হোসেন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-069",
+    "title": "নিষিদ্ধ লোবান",
+    "creators": [
+      "সৈয়দ শামসুল হক"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "নিষিদ্ধ লোবান – সৈয়দ শামসুল হক",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-070",
+    "title": "রাইফেল, রুটি, আওরাত",
+    "creators": [
+      "আনোয়ার পাশা"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "রাইফেল, রুটি, আওরাত – আনোয়ার পাশা",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-071",
+    "title": "একাত্তরের দিনগুলি",
+    "creators": [
+      "জাহানারা ইমাম"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [
+      "Memoir",
+      "History"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "একাত্তরের দিনগুলি – জাহানারা ইমাম",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-072",
+    "title": "ক্রাচের কর্নেল",
+    "creators": [
+      "শাহাদুজ্জামান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "ক্রাচের কর্নেল – শাহাদুজ্জামান",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-073",
+    "title": "A Tale of Millions",
+    "creators": [
+      "রফিকুল ইসলাম"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "A Tale of Millions – রফিকুল ইসলাম",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-074",
+    "title": "The Cruel Birth of Bangladesh",
+    "creators": [
+      "Archer K. Blood"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Cruel Birth of Bangladesh – Archer K. Blood",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-075",
+    "title": "মূলধারা ৭১",
+    "creators": [
+      "মঈদুল হাসান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [
+      "History",
+      "Politics"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "মূলধারা ৭১ – মঈদুল হাসান",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-076",
+    "title": "বেহাত বিপ্লব ১৯৭১",
+    "creators": [
+      "সলিমুল্লাহ খান"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "বেহাত বিপ্লব ১৯৭১ – সলিমুল্লাহ খান",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-077",
+    "title": "যুদ্ধোত্তর বাংলাদেশ",
+    "creators": [
+      "বদরুদ্দীন উমর"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "যুদ্ধোত্তর বাংলাদেশ – বদরুদ্দীন উমর",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-078",
+    "title": "আগুনের পরশমণি",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "আগুনের পরশমণি",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-079",
+    "title": "১৯৭১",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "১৯৭১",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-080",
+    "title": "অনিল বাগচীর একদিন",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "অনিল বাগচীর একদিন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-081",
+    "title": "শ্যামল ছায়া",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "শ্যামল ছায়া",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-082",
+    "title": "সূর্যের দিন",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "সূর্যের দিন",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-083",
+    "title": "জোছনা ও জননীর গল্প",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "জোছনা ও জননীর গল্প",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-084",
+    "title": "দেয়াল",
+    "creators": [
+      "হুমায়ূন আহমেদ"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "দেয়াল",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-085",
+    "title": "চরমপত্র",
+    "creators": [
+      "এম আর আখতার মুকুল"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "চরমপত্র",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-086",
+    "title": "আমি বিজয় দেখেছি",
+    "creators": [
+      "এম আর আখতার মুকুল"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Liberation War & Bangladesh"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "বাংলা",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "আমি বিজয় দেখেছি",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-087",
+    "title": "1984",
+    "creators": [
+      "George Orwell"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [
+      "Dystopian fiction",
+      "Politics"
+    ],
+    "tags": [
+      "Source collection",
+      "Power",
+      "Freedom",
+      "Society"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "A society shaped by surveillance, controlled language, and the struggle to hold on to independent thought.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "1984",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-088",
+    "title": "Animal Farm",
+    "creators": [
+      "George Orwell"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [
+      "Satire",
+      "Politics"
+    ],
+    "tags": [
+      "Source collection",
+      "Power",
+      "Society"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "A political fable about a farm, a revolution, and the changing promises of power.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Animal Farm",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-089",
+    "title": "Man’s Search for Meaning",
+    "creators": [
+      "Viktor Frankl"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Personal Development"
+    ],
+    "genres": [
+      "Memoir",
+      "Psychology"
+    ],
+    "tags": [
+      "Source collection",
+      "Meaning",
+      "Resilience"
+    ],
+    "language": "Deutsch",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Man’s Search for Meaning – Viktor Frankl",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-090",
+    "title": "The Alchemist",
+    "creators": [
+      "Paulo Coelho"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [
+      "Fiction"
+    ],
+    "tags": [
+      "Source collection",
+      "Journey",
+      "Purpose"
+    ],
+    "language": "Português",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Alchemist – Paulo Coelho",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-091",
+    "title": "Sapiens",
+    "creators": [
+      "Yuval Noah Harari"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [
+      "History",
+      "Nonfiction"
+    ],
+    "tags": [
+      "Source collection",
+      "Humanity",
+      "Ideas"
+    ],
+    "language": "עברית",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Sapiens",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-092",
+    "title": "21 Lessons for the 21st Century",
+    "creators": [
+      "Yuval Noah Harari"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [
+      "Nonfiction",
+      "Social commentary"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "21 Lessons for the 21st Century",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-093",
+    "title": "Gulliver's Travels",
+    "creators": [
+      "Jonathan Swift"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [
+      "Satire",
+      "Adventure"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Gulliver's Travels - Jonathan Swift",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-094",
+    "title": "A Tale of Two Cities",
+    "creators": [
+      "Charles Dickens"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [
+      "Historical fiction"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "A Tale of Two Cities - Charles Dickens",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-095",
+    "title": "Ikigai",
+    "creators": [
+      "Francesc Miralles",
+      "Hector Garcia"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Personal Development"
+    ],
+    "genres": [
+      "Personal development"
+    ],
+    "tags": [
+      "Source collection",
+      "Purpose",
+      "Wellbeing"
+    ],
+    "language": "",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Ikigai – Francesc Miralles & Hector Garcia",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-096",
+    "title": "Atomic Habits",
+    "creators": [
+      "James Clear"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Personal Development"
+    ],
+    "genres": [
+      "Personal development"
+    ],
+    "tags": [
+      "Source collection",
+      "Habits",
+      "Growth"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "An approachable exploration of how small, repeated actions shape habits and everyday progress.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Atomic Habits – James Clear",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-097",
+    "title": "Thinking, Fast and Slow",
+    "creators": [
+      "Daniel Kahneman"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Personal Development"
+    ],
+    "genres": [
+      "Psychology",
+      "Nonfiction"
+    ],
+    "tags": [
+      "Source collection",
+      "Thinking",
+      "Decisions"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Thinking, Fast and Slow – Daniel Kahneman",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-098",
+    "title": "The Art of Thinking Clearly",
+    "creators": [
+      "Rolf Dobelli"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Personal Development"
+    ],
+    "genres": [
+      "Psychology",
+      "Nonfiction"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Art of Thinking Clearly – Rolf Dobelli",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-099",
+    "title": "Outliers",
+    "creators": [
+      "Malcolm Gladwell"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Personal Development"
+    ],
+    "genres": [
+      "Nonfiction"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Outliers – Malcolm Gladwell",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-100",
+    "title": "The 7 Habits of Highly Effective People",
+    "creators": [
+      "Stephen Covey"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Personal Development"
+    ],
+    "genres": [
+      "Personal development"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The 7 Habits of Highly Effective People – Stephen Covey",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-101",
+    "title": "The Power of Now",
+    "creators": [
+      "Eckhart Tolle"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Personal Development"
+    ],
+    "genres": [
+      "Personal development"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Power of Now – Eckhart Tolle",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-102",
+    "title": "Mother",
+    "creators": [
+      "Maxim Gorky"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "Русский",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Mother – Maxim Gorky",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-103",
+    "title": "Crime and Punishment",
+    "creators": [
+      "Fyodor Dostoevsky"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [
+      "Literary fiction",
+      "Psychological fiction"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "Русский",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Crime and Punishment – Fyodor Dostoevsky",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-104",
+    "title": "To Kill a Mockingbird",
+    "creators": [
+      "Harper Lee"
+    ],
+    "type": "book",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "World Literature"
+    ],
+    "genres": [
+      "Drama",
+      "Social commentary"
+    ],
+    "tags": [
+      "Source collection",
+      "Justice",
+      "Society"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "To Kill a Mockingbird – Harper Lee",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-105",
+    "title": "The Rime of the Ancient Mariner",
+    "creators": [
+      "Samuel Taylor Coleridge"
+    ],
+    "type": "poem",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Poetry"
+    ],
+    "genres": [
+      "Poetry"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Rime of the Ancient Mariner – Samuel Taylor Coleridge",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-106",
+    "title": "A Pale Blue Dot",
+    "creators": [
+      "Carl Sagan"
+    ],
+    "type": "poem",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Poetry"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "Source lists this under poems; classification requires editorial verification.",
+    "sourceLabel": "A Pale Blue Dot – Carl Sagan",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-107",
+    "title": "Invictus",
+    "creators": [
+      "William Ernest Henley"
+    ],
+    "type": "poem",
+    "categories": [
+      "Books & Literature"
+    ],
+    "subcategories": [
+      "Poetry"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection",
+      "Resilience"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "বিশ্ববিদ্যালয় শিক্ষার্থী ও বিসিএস প্রত্যাশীদের জন্য মূল তালিকা থেকে নির্বাচিত একটি পাঠ।",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Invictus – William Ernest Henley",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-108",
+    "title": "The Shawshank Redemption",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Source collection",
+      "Hope",
+      "Friendship",
+      "Resilience"
+    ],
+    "language": "English",
+    "year": 1994,
+    "description": "A prison story about friendship, patient determination, and the enduring possibility of hope.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Shawshank Redemption (1994)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-109",
+    "title": "Forrest Gump",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Source collection",
+      "Life",
+      "Journey"
+    ],
+    "language": "English",
+    "year": 1994,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Forrest Gump (1994)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-110",
+    "title": "Good Will Hunting",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Source collection",
+      "Potential",
+      "Friendship"
+    ],
+    "language": "English",
+    "year": 1997,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Good Will Hunting (1997)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-111",
+    "title": "Dead Poets Society",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Source collection",
+      "Education",
+      "Poetry",
+      "Individuality"
+    ],
+    "language": "English",
+    "year": 1989,
+    "description": "Literature and an unconventional teacher inspire students to see their lives through a new lens.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Dead Poets Society (1989)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-112",
+    "title": "A Beautiful Mind",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Biographical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2001,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "A Beautiful Mind (2001)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-113",
+    "title": "The King’s Speech",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Historical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2010,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The King’s Speech (2010)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-114",
+    "title": "12 Angry Men",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Source collection",
+      "Justice",
+      "Critical thinking"
+    ],
+    "language": "English",
+    "year": 1957,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "12 Angry Men (1957)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-115",
+    "title": "To Kill a Mockingbird",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama",
+      "Social commentary"
+    ],
+    "tags": [
+      "Source collection",
+      "Justice",
+      "Society"
+    ],
+    "language": "English",
+    "year": 1962,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "To Kill a Mockingbird (1962)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-116",
+    "title": "Fight Club",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1999,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Fight Club (1999)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-117",
+    "title": "Whiplash",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "tags": [
+      "Source collection",
+      "Ambition",
+      "Discipline"
+    ],
+    "language": "English",
+    "year": 2014,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Whiplash (2014)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-118",
+    "title": "The Pursuit of Happyness",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Biographical drama"
+    ],
+    "tags": [
+      "Source collection",
+      "Resilience",
+      "Family"
+    ],
+    "language": "English",
+    "year": 2006,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Pursuit of Happyness (2006)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-119",
+    "title": "Invictus",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection",
+      "Resilience"
+    ],
+    "language": "English",
+    "year": 2009,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Invictus (2009)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-120",
+    "title": "The Bucket List",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2007,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Bucket List (2007)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-121",
+    "title": "Million Dollar Baby",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2004,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Million Dollar Baby (2004)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-122",
+    "title": "Into the Wild",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2007,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Into the Wild (2007)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-123",
+    "title": "Life of Pi",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2012,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Life of Pi (2012)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-124",
+    "title": "Slumdog Millionaire",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2008,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Slumdog Millionaire (2008)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-125",
+    "title": "The Truman Show",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama",
+      "Satire"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1998,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Truman Show (1998)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-126",
+    "title": "Schindler’s List",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Historical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1993,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Schindler’s List (1993)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-127",
+    "title": "The Dark Knight Trilogy",
+    "creators": [],
+    "type": "collection",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Film Collections"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Dark Knight Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "membershipSource": "Editorial expansion of the named source grouping into its released films. Member titles and years are supplemental; the original group recommendation is preserved."
+    },
+    "children": [
+      "item-180",
+      "item-181",
+      "item-182"
+    ]
+  },
+  {
+    "id": "item-128",
+    "title": "The Godfather Trilogy",
+    "creators": [],
+    "type": "collection",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Film Collections"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Godfather Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "membershipSource": "Editorial expansion of the named source grouping into its released films. Member titles and years are supplemental; the original group recommendation is preserved."
+    },
+    "children": [
+      "item-183",
+      "item-184",
+      "item-185"
+    ]
+  },
+  {
+    "id": "item-129",
+    "title": "Gladiator",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Historical drama",
+      "Action"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2000,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Gladiator (2000)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-130",
+    "title": "Spartacus",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Historical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1960,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Spartacus (1960)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-131",
+    "title": "Braveheart",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Historical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1995,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Braveheart (1995)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-132",
+    "title": "Hotel Rwanda",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Historical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2004,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Hotel Rwanda (2004)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-133",
+    "title": "Hacksaw Ridge",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "War",
+      "Biographical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2016,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Hacksaw Ridge (2016)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-134",
+    "title": "1917",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "War",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2019,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "1917 (2019)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-135",
+    "title": "Inception",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Science fiction",
+      "Thriller"
+    ],
+    "tags": [
+      "Source collection",
+      "Dreams",
+      "Ideas"
+    ],
+    "language": "English",
+    "year": 2010,
+    "description": "A heist that ventures into layered dreams, where memory, reality, and imagination blur.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Inception (2010)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-136",
+    "title": "Interstellar",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Science fiction",
+      "Adventure"
+    ],
+    "tags": [
+      "Source collection",
+      "Space",
+      "Family",
+      "Time"
+    ],
+    "language": "English",
+    "year": 2014,
+    "description": "An ambitious journey through space, grounded in the connection between a father and his daughter.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Interstellar (2014)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-137",
+    "title": "The Prestige",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2006,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Prestige (2006)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-138",
+    "title": "Memento",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2000,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Memento (2000)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-139",
+    "title": "Shutter Island",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2010,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Shutter Island (2010)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-140",
+    "title": "The Imitation Game",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Biographical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2014,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Imitation Game (2014)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-141",
+    "title": "Catch Me If You Can",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2002,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Catch Me If You Can (2002)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-142",
+    "title": "No Country for Old Men",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2007,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "No Country for Old Men (2007)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-143",
+    "title": "Django Unchained",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Western",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2012,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Django Unchained (2012)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-144",
+    "title": "Soul",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ],
+    "tags": [
+      "Source collection",
+      "Purpose",
+      "Music"
+    ],
+    "language": "English",
+    "year": 2020,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Soul (2020)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-145",
+    "title": "Coco",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ],
+    "tags": [
+      "Source collection",
+      "Family",
+      "Music"
+    ],
+    "language": "English",
+    "year": 2017,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Coco (2017)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-146",
+    "title": "Up",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Animation",
+      "Adventure"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2009,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Up (2009)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-147",
+    "title": "Her",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Science fiction",
+      "Romance"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2013,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Her (2013)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-148",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Science fiction",
+      "Romance"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2004,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Eternal Sunshine of the Spotless Mind (2004)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-149",
+    "title": "Before Trilogy",
+    "creators": [],
+    "type": "collection",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Film Collections"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Before Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "membershipSource": "Editorial expansion of the named source grouping into its released films. Member titles and years are supplemental; the original group recommendation is preserved."
+    },
+    "children": [
+      "item-186",
+      "item-187",
+      "item-188"
+    ]
+  },
+  {
+    "id": "item-150",
+    "title": "Manchester by the Sea",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2016,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Manchester by the Sea (2016)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-151",
+    "title": "Parasite",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Thriller",
+      "Social commentary"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "한국어",
+    "year": 2019,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Parasite (2019 - Korean)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-152",
+    "title": "Joker",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Psychological drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2019,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Joker (2019)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-153",
+    "title": "The Wolf of Wall Street",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Crime",
+      "Biographical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2013,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Wolf of Wall Street (2013)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-154",
+    "title": "Dallas Buyers Club",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Biographical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2013,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Dallas Buyers Club (2013)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-155",
+    "title": "12th Fail",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Biographical drama"
+    ],
+    "tags": [
+      "Source collection",
+      "Education",
+      "Resilience"
+    ],
+    "language": "हिन्दी",
+    "year": 2023,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "12th Fail (2023) (Hindi)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-156",
+    "title": "The Lord of the Rings Trilogy",
+    "creators": [],
+    "type": "collection",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Film Collections"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Lord of the Rings Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "membershipSource": "Editorial expansion of the named source grouping into its released films. Member titles and years are supplemental; the original group recommendation is preserved."
+    },
+    "children": [
+      "item-189",
+      "item-190",
+      "item-191"
+    ]
+  },
+  {
+    "id": "item-157",
+    "title": "The Martian",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Science fiction",
+      "Adventure"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2015,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Martian (2015)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-158",
+    "title": "Blade Runner & Blade Runner 2049",
+    "creators": [],
+    "type": "collection",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Film Collections"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Blade Runner & Blade Runner 2049",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "membershipSource": "Editorial expansion of the named source grouping into its released films. Member titles and years are supplemental; the original group recommendation is preserved."
+    },
+    "children": [
+      "item-192",
+      "item-193"
+    ]
+  },
+  {
+    "id": "item-159",
+    "title": "The Green Mile",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1999,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Green Mile (1999)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-160",
+    "title": "Mad Max: Fury Road",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Action",
+      "Science fiction"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2015,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Mad Max: Fury Road (2015)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-161",
+    "title": "The Intouchables",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "Français",
+    "year": 2011,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Intouchables (2011 - French)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-162",
+    "title": "Life Is Beautiful",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "Italiano",
+    "year": 1997,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Life Is Beautiful (1997 - Italian)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-163",
+    "title": "# Home",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "മലയാളം",
+    "year": 2021,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "# Home (2021 - Malayalam)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-164",
+    "title": "Charlie",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "മലയാളം",
+    "year": 2015,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Charlie (2015 - Malayalam)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-165",
+    "title": "Neelakasham Pachakadal Chuvanna Bhoomi",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "മലയാളം",
+    "year": 2013,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Neelakasham Pachakadal Chuvanna Bhoomi (2013 - Malayalam)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-166",
+    "title": "Game of Thrones",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Game of Thrones",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-167",
+    "title": "House of the Dragon",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "House of the Dragon",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-168",
+    "title": "Breaking Bad",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Breaking Bad",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-169",
+    "title": "Better Call Saul",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Better Call Saul",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-170",
+    "title": "Sherlock",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Mystery",
+      "Crime"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Sherlock",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-171",
+    "title": "The Big Bang Theory",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Big Bang Theory",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-172",
+    "title": "Young Sheldon",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Young Sheldon",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-173",
+    "title": "Friends",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Friends",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-174",
+    "title": "Chernobyl",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Historical drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Chernobyl",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-175",
+    "title": "Planet Earth",
+    "creators": [],
+    "type": "documentary",
+    "categories": [
+      "Documentaries"
+    ],
+    "subcategories": [
+      "Documentary Series"
+    ],
+    "genres": [
+      "Nature"
+    ],
+    "tags": [
+      "Source collection",
+      "Planet",
+      "Wildlife"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Planet Earth (BBC)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-176",
+    "title": "Our Planet",
+    "creators": [],
+    "type": "documentary",
+    "categories": [
+      "Documentaries"
+    ],
+    "subcategories": [
+      "Documentary Series"
+    ],
+    "genres": [
+      "Nature"
+    ],
+    "tags": [
+      "Source collection",
+      "Planet",
+      "Wildlife"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Our Planet (Netflix)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-177",
+    "title": "Explained",
+    "creators": [],
+    "type": "documentary",
+    "categories": [
+      "Documentaries"
+    ],
+    "subcategories": [
+      "Documentary Series"
+    ],
+    "genres": [
+      "Educational"
+    ],
+    "tags": [
+      "Source collection",
+      "Ideas",
+      "Learning"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Explained (Netflix/Vox)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-178",
+    "title": "Aspirants",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Source collection",
+      "Education",
+      "Friendship",
+      "Ambition"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Aspirants (TVF)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-179",
+    "title": "Panchayet",
+    "creators": [],
+    "type": "series",
+    "categories": [
+      "TV Series"
+    ],
+    "subcategories": [
+      "Television"
+    ],
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "",
+    "year": null,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "Original source spelling retained. Commonly listed as Panchayat; verify before changing the title.",
+    "sourceLabel": "Panchayet (TVF)",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {}
+  },
+  {
+    "id": "item-180",
+    "title": "Batman Begins",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2005,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Dark Knight Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "The Dark Knight Trilogy"
+    },
+    "parentId": "item-127"
+  },
+  {
+    "id": "item-181",
+    "title": "The Dark Knight",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2008,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Dark Knight Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "The Dark Knight Trilogy"
+    },
+    "parentId": "item-127"
+  },
+  {
+    "id": "item-182",
+    "title": "The Dark Knight Rises",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2012,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Dark Knight Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "The Dark Knight Trilogy"
+    },
+    "parentId": "item-127"
+  },
+  {
+    "id": "item-183",
+    "title": "The Godfather",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1972,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Godfather Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "The Godfather Trilogy"
+    },
+    "parentId": "item-128"
+  },
+  {
+    "id": "item-184",
+    "title": "The Godfather Part II",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1974,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Godfather Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "The Godfather Trilogy"
+    },
+    "parentId": "item-128"
+  },
+  {
+    "id": "item-185",
+    "title": "The Godfather Part III",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1990,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Godfather Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "The Godfather Trilogy"
+    },
+    "parentId": "item-128"
+  },
+  {
+    "id": "item-186",
+    "title": "Before Sunrise",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1995,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Before Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "Before Trilogy"
+    },
+    "parentId": "item-149"
+  },
+  {
+    "id": "item-187",
+    "title": "Before Sunset",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2004,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Before Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "Before Trilogy"
+    },
+    "parentId": "item-149"
+  },
+  {
+    "id": "item-188",
+    "title": "Before Midnight",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2013,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Before Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "Before Trilogy"
+    },
+    "parentId": "item-149"
+  },
+  {
+    "id": "item-189",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2001,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Lord of the Rings Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "The Lord of the Rings Trilogy"
+    },
+    "parentId": "item-156"
+  },
+  {
+    "id": "item-190",
+    "title": "The Lord of the Rings: The Two Towers",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2002,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Lord of the Rings Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "The Lord of the Rings Trilogy"
+    },
+    "parentId": "item-156"
+  },
+  {
+    "id": "item-191",
+    "title": "The Lord of the Rings: The Return of the King",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2003,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "The Lord of the Rings Trilogy",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "The Lord of the Rings Trilogy"
+    },
+    "parentId": "item-156"
+  },
+  {
+    "id": "item-192",
+    "title": "Blade Runner",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 1982,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Blade Runner & Blade Runner 2049",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "Blade Runner & Blade Runner 2049"
+    },
+    "parentId": "item-158"
+  },
+  {
+    "id": "item-193",
+    "title": "Blade Runner 2049",
+    "creators": [],
+    "type": "movie",
+    "categories": [
+      "Movies"
+    ],
+    "subcategories": [
+      "Cinema"
+    ],
+    "genres": [],
+    "tags": [
+      "Source collection"
+    ],
+    "language": "English",
+    "year": 2017,
+    "description": "A screen recommendation from the original collection for curious minds.",
+    "details": "",
+    "status": "published",
+    "reviewNote": "",
+    "sourceLabel": "Blade Runner & Blade Runner 2049",
+    "thumbnail": "",
+    "imageAlt": "",
+    "metadata": {
+      "expandedFromSource": "Blade Runner & Blade Runner 2049"
+    },
+    "parentId": "item-158"
+  }
+]

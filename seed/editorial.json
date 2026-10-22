@@ -1,0 +1,739 @@
+{
+  "লালসালু": {
+    "genres": [
+      "Literary fiction",
+      "Social commentary"
+    ],
+    "description": "ধর্ম, বিশ্বাস ও গ্রামীণ সমাজের ক্ষমতাকাঠামো নিয়ে সৈয়দ ওয়ালীউল্লাহর বহুলপঠিত উপন্যাস।",
+    "tags": [
+      "বাংলা সাহিত্য",
+      "সমাজ",
+      "বিশ্বাস"
+    ]
+  },
+  "চাঁদের অমাবস্যা": {
+    "genres": [
+      "Literary fiction",
+      "Psychological fiction"
+    ],
+    "tags": [
+      "বাংলা সাহিত্য",
+      "নৈতিকতা"
+    ]
+  },
+  "ওঙ্কার": {
+    "genres": [
+      "Literary fiction"
+    ],
+    "tags": [
+      "বাংলা সাহিত্য",
+      "পরিচয়"
+    ]
+  },
+  "গাভী বিত্তান্ত": {
+    "genres": [
+      "Satire"
+    ],
+    "tags": [
+      "বাংলা সাহিত্য",
+      "সমাজ"
+    ]
+  },
+  "বাঙালি মুসলমানের মন": {
+    "genres": [
+      "Essays",
+      "Social commentary"
+    ],
+    "tags": [
+      "চিন্তা",
+      "সমাজ"
+    ]
+  },
+  "সুলতানার স্বপ্ন": {
+    "genres": [
+      "Speculative fiction"
+    ],
+    "tags": [
+      "নারী",
+      "সমাজ"
+    ],
+    "language": "English"
+  },
+  "অবরোধবাসিনী": {
+    "genres": [
+      "Social commentary"
+    ],
+    "tags": [
+      "নারী",
+      "সমাজ"
+    ]
+  },
+  "আয়না": {
+    "genres": [
+      "Satire",
+      "Short stories"
+    ]
+  },
+  "আমার দেখা রাজনীতির পঞ্চাশ বছর": {
+    "genres": [
+      "Memoir",
+      "Politics"
+    ]
+  },
+  "পদ্মা নদীর মাঝি": {
+    "genres": [
+      "Literary fiction"
+    ],
+    "description": "পদ্মাপাড়ের জেলেজীবন, মানুষের আকাঙ্ক্ষা ও বেঁচে থাকার সংগ্রামের এক গভীর সাহিত্যিক প্রতিচ্ছবি।",
+    "tags": [
+      "বাংলা সাহিত্য",
+      "নদী",
+      "মানুষ"
+    ]
+  },
+  "পুতুল নাচের ইতিকথা": {
+    "genres": [
+      "Literary fiction"
+    ]
+  },
+  "আরণ্যক": {
+    "genres": [
+      "Literary fiction",
+      "Nature writing"
+    ],
+    "description": "অরণ্য, মানুষ ও প্রকৃতির সম্পর্ক নিয়ে বিভূতিভূষণের এক স্মরণীয় সাহিত্যকর্ম।",
+    "tags": [
+      "প্রকৃতি",
+      "বাংলা সাহিত্য"
+    ]
+  },
+  "পথের পাঁচালী": {
+    "genres": [
+      "Literary fiction",
+      "Coming of age"
+    ],
+    "description": "অপু ও দুর্গার চোখে গ্রামবাংলার জীবন, শৈশব আর ছোট ছোট বিস্ময়ের গল্প।",
+    "tags": [
+      "শৈশব",
+      "বাংলা সাহিত্য"
+    ]
+  },
+  "অপরাজিত": {
+    "genres": [
+      "Literary fiction",
+      "Coming of age"
+    ]
+  },
+  "গল্পগুচ্ছ": {
+    "genres": [
+      "Short stories"
+    ]
+  },
+  "গোরা": {
+    "genres": [
+      "Literary fiction"
+    ]
+  },
+  "শেষের কবিতা": {
+    "genres": [
+      "Literary fiction",
+      "Romance"
+    ]
+  },
+  "দেশে বিদেশে": {
+    "genres": [
+      "Travel writing"
+    ]
+  },
+  "অগ্নিবীণা": {
+    "genres": [
+      "Poetry"
+    ]
+  },
+  "সাম্যবাদী": {
+    "genres": [
+      "Poetry"
+    ]
+  },
+  "নকশী কাঁথার মাঠ": {
+    "genres": [
+      "Poetry"
+    ]
+  },
+  "রূপসী বাংলা": {
+    "genres": [
+      "Poetry"
+    ]
+  },
+  "কবর": {
+    "genres": [
+      "Drama"
+    ]
+  },
+  "রক্তাক্ত প্রান্তর": {
+    "genres": [
+      "Drama"
+    ]
+  },
+  "একাত্তরের দিনগুলি": {
+    "genres": [
+      "Memoir",
+      "History"
+    ]
+  },
+  "মূলধারা ৭১": {
+    "genres": [
+      "History",
+      "Politics"
+    ]
+  },
+  "1984": {
+    "genres": [
+      "Dystopian fiction",
+      "Politics"
+    ],
+    "description": "A society shaped by surveillance, controlled language, and the struggle to hold on to independent thought.",
+    "tags": [
+      "Power",
+      "Freedom",
+      "Society"
+    ]
+  },
+  "Animal Farm": {
+    "genres": [
+      "Satire",
+      "Politics"
+    ],
+    "description": "A political fable about a farm, a revolution, and the changing promises of power.",
+    "tags": [
+      "Power",
+      "Society"
+    ]
+  },
+  "Man’s Search for Meaning": {
+    "genres": [
+      "Memoir",
+      "Psychology"
+    ],
+    "tags": [
+      "Meaning",
+      "Resilience"
+    ],
+    "language": "Deutsch"
+  },
+  "The Alchemist": {
+    "genres": [
+      "Fiction"
+    ],
+    "tags": [
+      "Journey",
+      "Purpose"
+    ],
+    "language": "Português"
+  },
+  "Sapiens": {
+    "genres": [
+      "History",
+      "Nonfiction"
+    ],
+    "tags": [
+      "Humanity",
+      "Ideas"
+    ],
+    "language": "עברית"
+  },
+  "21 Lessons for the 21st Century": {
+    "genres": [
+      "Nonfiction",
+      "Social commentary"
+    ]
+  },
+  "Gulliver's Travels": {
+    "genres": [
+      "Satire",
+      "Adventure"
+    ]
+  },
+  "A Tale of Two Cities": {
+    "genres": [
+      "Historical fiction"
+    ]
+  },
+  "Ikigai": {
+    "genres": [
+      "Personal development"
+    ],
+    "tags": [
+      "Purpose",
+      "Wellbeing"
+    ],
+    "language": ""
+  },
+  "Atomic Habits": {
+    "genres": [
+      "Personal development"
+    ],
+    "description": "An approachable exploration of how small, repeated actions shape habits and everyday progress.",
+    "tags": [
+      "Habits",
+      "Growth"
+    ]
+  },
+  "Thinking, Fast and Slow": {
+    "genres": [
+      "Psychology",
+      "Nonfiction"
+    ],
+    "tags": [
+      "Thinking",
+      "Decisions"
+    ]
+  },
+  "The Art of Thinking Clearly": {
+    "genres": [
+      "Psychology",
+      "Nonfiction"
+    ]
+  },
+  "Outliers": {
+    "genres": [
+      "Nonfiction"
+    ]
+  },
+  "The 7 Habits of Highly Effective People": {
+    "genres": [
+      "Personal development"
+    ]
+  },
+  "The Power of Now": {
+    "genres": [
+      "Personal development"
+    ]
+  },
+  "Crime and Punishment": {
+    "genres": [
+      "Literary fiction",
+      "Psychological fiction"
+    ],
+    "language": "Русский"
+  },
+  "To Kill a Mockingbird": {
+    "genres": [
+      "Drama",
+      "Social commentary"
+    ],
+    "tags": [
+      "Justice",
+      "Society"
+    ]
+  },
+  "The Rime of the Ancient Mariner": {
+    "genres": [
+      "Poetry"
+    ]
+  },
+  "Invictus": {
+    "tags": [
+      "Resilience"
+    ]
+  },
+  "The Shawshank Redemption": {
+    "genres": [
+      "Drama"
+    ],
+    "description": "A prison story about friendship, patient determination, and the enduring possibility of hope.",
+    "tags": [
+      "Hope",
+      "Friendship",
+      "Resilience"
+    ]
+  },
+  "Forrest Gump": {
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Life",
+      "Journey"
+    ]
+  },
+  "Good Will Hunting": {
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Potential",
+      "Friendship"
+    ]
+  },
+  "Dead Poets Society": {
+    "genres": [
+      "Drama"
+    ],
+    "description": "Literature and an unconventional teacher inspire students to see their lives through a new lens.",
+    "tags": [
+      "Education",
+      "Poetry",
+      "Individuality"
+    ]
+  },
+  "A Beautiful Mind": {
+    "genres": [
+      "Biographical drama"
+    ]
+  },
+  "The King’s Speech": {
+    "genres": [
+      "Historical drama"
+    ]
+  },
+  "12 Angry Men": {
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Justice",
+      "Critical thinking"
+    ]
+  },
+  "Whiplash": {
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "tags": [
+      "Ambition",
+      "Discipline"
+    ]
+  },
+  "The Pursuit of Happyness": {
+    "genres": [
+      "Biographical drama"
+    ],
+    "tags": [
+      "Resilience",
+      "Family"
+    ]
+  },
+  "Into the Wild": {
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "Life of Pi": {
+    "genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  "The Truman Show": {
+    "genres": [
+      "Drama",
+      "Satire"
+    ]
+  },
+  "Schindler’s List": {
+    "genres": [
+      "Historical drama"
+    ]
+  },
+  "Gladiator": {
+    "genres": [
+      "Historical drama",
+      "Action"
+    ]
+  },
+  "Spartacus": {
+    "genres": [
+      "Historical drama"
+    ]
+  },
+  "Braveheart": {
+    "genres": [
+      "Historical drama"
+    ]
+  },
+  "Hotel Rwanda": {
+    "genres": [
+      "Historical drama"
+    ]
+  },
+  "Hacksaw Ridge": {
+    "genres": [
+      "War",
+      "Biographical drama"
+    ]
+  },
+  "1917": {
+    "genres": [
+      "War",
+      "Drama"
+    ]
+  },
+  "Inception": {
+    "genres": [
+      "Science fiction",
+      "Thriller"
+    ],
+    "description": "A heist that ventures into layered dreams, where memory, reality, and imagination blur.",
+    "tags": [
+      "Dreams",
+      "Ideas"
+    ]
+  },
+  "Interstellar": {
+    "genres": [
+      "Science fiction",
+      "Adventure"
+    ],
+    "description": "An ambitious journey through space, grounded in the connection between a father and his daughter.",
+    "tags": [
+      "Space",
+      "Family",
+      "Time"
+    ]
+  },
+  "The Prestige": {
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "Memento": {
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "Shutter Island": {
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  "The Imitation Game": {
+    "genres": [
+      "Biographical drama"
+    ]
+  },
+  "Catch Me If You Can": {
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "No Country for Old Men": {
+    "genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  "Django Unchained": {
+    "genres": [
+      "Western",
+      "Drama"
+    ]
+  },
+  "Soul": {
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ],
+    "tags": [
+      "Purpose",
+      "Music"
+    ]
+  },
+  "Coco": {
+    "genres": [
+      "Animation",
+      "Fantasy"
+    ],
+    "tags": [
+      "Family",
+      "Music"
+    ]
+  },
+  "Up": {
+    "genres": [
+      "Animation",
+      "Adventure"
+    ]
+  },
+  "Her": {
+    "genres": [
+      "Science fiction",
+      "Romance"
+    ]
+  },
+  "Eternal Sunshine of the Spotless Mind": {
+    "genres": [
+      "Science fiction",
+      "Romance"
+    ]
+  },
+  "Manchester by the Sea": {
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Parasite": {
+    "genres": [
+      "Thriller",
+      "Social commentary"
+    ]
+  },
+  "Joker": {
+    "genres": [
+      "Psychological drama"
+    ]
+  },
+  "The Wolf of Wall Street": {
+    "genres": [
+      "Crime",
+      "Biographical drama"
+    ]
+  },
+  "Dallas Buyers Club": {
+    "genres": [
+      "Biographical drama"
+    ]
+  },
+  "12th Fail": {
+    "genres": [
+      "Biographical drama"
+    ],
+    "tags": [
+      "Education",
+      "Resilience"
+    ]
+  },
+  "The Martian": {
+    "genres": [
+      "Science fiction",
+      "Adventure"
+    ]
+  },
+  "The Green Mile": {
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  "Mad Max: Fury Road": {
+    "genres": [
+      "Action",
+      "Science fiction"
+    ]
+  },
+  "The Intouchables": {
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "Life Is Beautiful": {
+    "genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  "Game of Thrones": {
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "House of the Dragon": {
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ]
+  },
+  "Breaking Bad": {
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "Better Call Saul": {
+    "genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  "Sherlock": {
+    "genres": [
+      "Mystery",
+      "Crime"
+    ]
+  },
+  "The Big Bang Theory": {
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "Young Sheldon": {
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "Friends": {
+    "genres": [
+      "Comedy"
+    ]
+  },
+  "Chernobyl": {
+    "genres": [
+      "Historical drama"
+    ]
+  },
+  "Planet Earth": {
+    "genres": [
+      "Nature"
+    ],
+    "tags": [
+      "Planet",
+      "Wildlife"
+    ]
+  },
+  "Our Planet": {
+    "genres": [
+      "Nature"
+    ],
+    "tags": [
+      "Planet",
+      "Wildlife"
+    ]
+  },
+  "Explained": {
+    "genres": [
+      "Educational"
+    ],
+    "tags": [
+      "Ideas",
+      "Learning"
+    ]
+  },
+  "Aspirants": {
+    "genres": [
+      "Drama"
+    ],
+    "tags": [
+      "Education",
+      "Friendship",
+      "Ambition"
+    ]
+  },
+  "Panchayet": {
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "reviewNote": "Original source spelling retained. Commonly listed as Panchayat; verify before changing the title."
+  },
+  "Mother": {
+    "language": "Русский"
+  }
+}
