@@ -1,0 +1,21 @@
+services:
+  aspirants:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      DATA_DIR: /app/data
+      # Set to true when served through an HTTPS reverse proxy.
+      COOKIE_SECURE: "${COOKIE_SECURE:-false}"
+    volumes:
+      - aspirants-data:/app/data
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    read_only: true
+    tmpfs:
+      - /tmp
+volumes:
+  aspirants-data:
