@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="bn">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f7f7f2" />
+    <meta
+      name="description"
+      content="Aspirants — বই, সিনেমা ও ভাবনার এক যত্নে সাজানো সংগ্রহ। A Bengali-first discovery library for curious minds."
+    />
+    <title>Aspirants — Read. Watch. Grow.</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/style.css" />
+    <script type="module" src="/app.js"></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a href="/" class="brand" aria-label="Aspirants home"
+          ><span class="brand-symbol">a<span>✳</span></span
+          ><span>aspirants<span class="brand-dot">.</span></span></a
+        >
+        <nav aria-label="Main navigation">
+          <a href="/" data-nav="home">Discover</a
+          ><a href="/library" data-nav="library">All content</a
+          ><a href="/about" data-nav="about">Our story</a>
+        </nav>
+        <div class="header-actions">
+          <button
+            class="icon-button header-search"
+            aria-label="Search library"
+            data-action="search"
+          ></button
+          ><a href="/saved" class="saved-link" aria-label="My saved items"
+            ><span id="saved-icon"></span
+            ><span class="saved-text">My collection</span
+            ><span class="saved-count">0</span></a
+          ><a class="admin-link" href="/admin" aria-label="Manage library">↗</a>
+        </div>
+      </div>
+    </header>
+    <main id="main" tabindex="-1">
+      <div class="initial-loading">
+        <span class="spinner"></span>Opening the library…
+      </div>
+    </main>
+    <footer>
+      <div class="footer-inner">
+        <a href="/" class="brand"
+          ><span class="brand-symbol">a<span>✳</span></span
+          ><span>aspirants<span class="brand-dot">.</span></span></a
+        >
+        <p>
+          A little curiosity. A bigger world.<br /><span
+            >পড়ুন, দেখুন, নিজেকে গড়ে তুলুন।</span
+          >
+        </p>
+        <div>
+          <a href="/about">About the collection</a
+          ><a href="/admin">Manage library</a>
+        </div>
+        <small
+          >Thoughtfully collected. Endlessly curious.<br />Source collection ©
+          আবদুল্লাহ আল নোমান অন্তর</small
+        >
+      </div>
+    </footer>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <dialog id="modal" aria-labelledby="modal-title"></dialog>
+  </body>
+</html>
